@@ -1,6 +1,6 @@
 # RL_TermProject
 
-|   MDP  |                                                                                          Contents                                                                                         |
+|   <span style = "background-color : lightgray">MDP</span>  |                                                                                          <center>Contents</center>                                                                                         |
 |:------:|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | State  | ① Velocity of Kart <br> ② Rays of distance between kart and the object * 9 <br> ③ Inner product value between the next destination and the kart direction vector of the kart <br> ④ Kart acceleration or not |
 | Action | ① [left, straight, right] <br> ② [accleration, stop, brake]                                                                                                                                    |
