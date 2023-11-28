@@ -7,3 +7,7 @@
 | Reward | ① hit: -2 <br> ② pass next goal: 1 <br> ③ velocity of kart is 0: -0.002 <br> ④ Inner product value: 0.03                                                                                                 |
 
 state는 위 표의 state를 4개 쌓은 벡터를 사용한다.
+```python
+current_state = decision_steps.obs[0]
+next_state = terminal_steps.obs[0]
+```
